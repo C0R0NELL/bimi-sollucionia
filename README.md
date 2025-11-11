@@ -1,2 +1,2 @@
 # bimi-sollucionia
-BIMI logo repository for sollucionia.com.br
+BIMI logo repository for sollucion.com
